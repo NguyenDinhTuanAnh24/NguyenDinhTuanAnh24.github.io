@@ -1,0 +1,30 @@
+#
+# A good place to start is the section:
+#
+# --- Basic Information --- #
+
+lang: vi # Đổi thành 'vi' nếu bạn muốn blog có ngôn ngữ Tiếng Việt
+title: TA BLOG # Đổi thành tên blog của bạn, ví dụ: Tuấn Anh's Blog
+tagline: A simple and clean blog theme. # Dòng mô tả ngắn gọn dưới tiêu đề
+description: >- # Đoạn mô tả dài hơn cho blog của bạn
+  A minimal, responsive, and feature-rich Jekyll theme for technical writing.
+
+# --- Site URL --- #
+#
+# The URL of your site.
+# It must be started with 'https' and must not end with a slash.
+#
+url: 'https://github.com/NguyenDinhTuanAnh24/NguyenDinhTuanAnh24.github.io.git' # !!! BẮT BUỘC: Thay bằng URL blog của bạn
+
+#
+# --- Author --- #
+#
+author: Tuan Anh # Tên của bạn
+# avatar: # Đường dẫn tới ảnh đại diện của bạn, ví dụ: /assets/img/favicons/avatar.png
+social:
+  name: Nguyen Dinh Tuan Anh # Tên đầy đủ
+  email: anh249205@example.com # Email của bạn (tùy chọn)
+  links:
+    # Ví dụ liên kết mạng xã hội
+    - https://twitter.com/username
+    - https://github.com/NguyenDinhTuanAnh24 # !!! BẮT BUỘC: Thay bằng username GitHub của bạn
